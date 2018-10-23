@@ -1,5 +1,5 @@
 from utils import load_data
-from my_CNN_model import *
+from CNN_model import *
 import cv2
 
 
